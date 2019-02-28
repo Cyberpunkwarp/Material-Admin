@@ -1,11 +1,11 @@
 <a href="http://www.bootstrapdash.com/demo/material-admin-free/jquery" target="_blank"><img src="screenshot.jpg"></a>
 
-<h1>Material Admin</h1>
+<h1>demo</h1>
 Material Admin is yet another incredible admin template from Bootstrapdash that is based on Google Material Design framework. The template is tastefully designed and coded to perfection. Material Admin comes packed with a lot of material design components, UI elements and built-in sample pages to kick-start your project.
 <br><br>
 The template is highly customizable so that you can alter the design to suit your needs and give it a unique look and very well-documented to help you get started without any issues.
 
-<h1>Credits:</h1>
+<h1>anonymod:</h1>
 
 - Google Material Design Framework
 - Material Design Icons
@@ -13,7 +13,7 @@ The template is highly customizable so that you can alter the design to suit you
 - Gulp
 - Chart.js
 
-<h1>Browser Support:</h1>
+<h1></h1>
 
 Material Admin is designed to work flawlessly with all the latest and modern web browsers.
 
